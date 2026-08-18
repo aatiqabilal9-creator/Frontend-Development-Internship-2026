@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Khan",
+    "completedCourses": ["React Basics", "JavaScript Fundamentals", "HTML & CSS"],
+    "pendingCourses": ["Advanced React", "TypeScript"],
+    "progress": 75
+  },
+  {
+    "id": 2,
+    "name": "Bilal Ahmed",
+    "completedCourses": ["HTML & CSS", "JavaScript Fundamentals"],
+    "pendingCourses": ["React Basics", "Advanced React", "TypeScript"],
+    "progress": 40
+  },
+  {
+    "id": 3,
+    "name": "Sara Malik",
+    "completedCourses": ["React Basics", "JavaScript Fundamentals", "HTML & CSS", "Advanced React", "TypeScript"],
+    "pendingCourses": [],
+    "progress": 100
+  },
+  {
+    "id": 4,
+    "name": "Usman Tariq",
+    "completedCourses": ["HTML & CSS"],
+    "pendingCourses": ["JavaScript Fundamentals", "React Basics", "Advanced React", "TypeScript"],
+    "progress": 20
+  }
+]
